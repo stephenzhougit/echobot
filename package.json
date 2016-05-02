@@ -23,6 +23,7 @@
     "botbuilder": "^0.6.5",
     "moment": "^2.13.0",
     "node-rest-client": "^1.8.0",
+    "node.io": "^0.5.1",
     "restify": "^4.0.4"
   }
 }
